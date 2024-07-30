@@ -11,7 +11,6 @@
 - Modern UI/UX design principles
 - Software Development in Cloud
 - IoT
-- 
 
 ## 🛠️ Tools and Languages
 - **Languages**: JavaScript, Java, SQL, C++
