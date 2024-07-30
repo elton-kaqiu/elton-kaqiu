@@ -1,4 +1,4 @@
-# 👋 Hi, I’m @elton-kaqiu
+# 👋 Hi, I’m Elton Kaqiu
 
 ## 👀 I’m interested in
 - Web development with React and Node.js
