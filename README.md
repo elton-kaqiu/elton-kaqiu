@@ -5,9 +5,8 @@
 
 ### 🔧 Technologies & Tools
 
-- **Backend:** Express.js, NestJS
-- **Frontend:** React
-- **Other:** Spring Boot
+- **Backend:** Express.js, Spring boot
+- **Frontend:** React.js
 
 Feel free to connect and collaborate on exciting projects!
 
