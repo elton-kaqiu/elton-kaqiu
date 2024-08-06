@@ -1,14 +1,7 @@
 # 👋 Hi, I’m Elton Kaqiu
 
 ## 👀 I’m interested in
-**web development** with a focus on **React** and **Node.js**. I love designing **beautiful and responsive UI/UX** and am always exploring new technologies and frameworks.
-
-### 🔧 Technologies & Tools
-
-- **Backend:** Express.js, Spring boot
-- **Frontend:** React.js
-
-Feel free to connect and collaborate on exciting projects!
+**web development** With a focus on **React** and **Node.js**. I love designing **beautiful and responsive UI/UX** and am always exploring new technologies and frameworks.
 
 ## 🌱 I’m currently learning
 - TypeScript
