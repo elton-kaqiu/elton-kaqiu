@@ -53,7 +53,7 @@
 ## 📫 How to reach me
 - [LinkedIn](https://linkedin.com/in/elton-kaqiu-5861421a1)
 - [Email](mailto:kaqiu96@gmail.com)
-- [GitHub](https://github.com/elton-kaqiu)
+- [Phone](+38344450209)
 
 <!---
 elton-kaqiu/elton-kaqiu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
